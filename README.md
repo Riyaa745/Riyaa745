@@ -44,8 +44,8 @@ I enjoy building efficient, scalable web applications and crafting clean, user-f
 
 ### 📫 How to Reach Me
 
-- 📧 Email: **riyasainwal@example.com**
-- 🔗 LinkedIn: [linkedin.com/in/riya-sainwal](https://www.linkedin.com/in/riya-sainwal) *(Update with your real link)*
+- 📧 Email: **riyasainwal123@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/riya-sainwal](in/riya-sainwal-40ba1724b) 
 
 ---
 
