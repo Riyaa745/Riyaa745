@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**Riyaa745/Riyaa745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Riya Sainwal
 
-Here are some ideas to get you started:
+### 💻 Passionate MERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building efficient, scalable web applications and crafting clean, user-friendly experiences with modern technologies and frameworks.
+
+---
+
+### 🚀 About Me
+
+- 💻 I'm proficient in **HTML5**, **CSS3**, **JavaScript**
+- ⚛️ I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🎨 I love designing intuitive UI with **Tailwind CSS** and **Next.js**
+- 🧠 Constantly learning and growing as a developer
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### 🌐 Frontend
+- HTML5, CSS3, JavaScript
+- React.js, Next.js, Tailwind CSS
+
+#### 🧩 Backend
+- Node.js, Express.js
+
+#### 🗃️ Database
+- MongoDB, Mongoose
+
+#### ⚒️ Tools & Platforms
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+### 🌱 Currently Exploring
+- Advanced **Next.js** features (SSR, ISR)
+- **TypeScript** for better scalability
+- Performance optimization and DevOps basics
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: **riyasainwal@example.com**
+- 🔗 LinkedIn: [linkedin.com/in/riya-sainwal](https://www.linkedin.com/in/riya-sainwal) *(Update with your real link)*
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to exciting opportunities, projects, and collaborations.  
+Let’s build something amazing together!
+
